@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>DVTSourceTextBackground</key>
+	<string>0.05613391473889351 0.05613391473889351 0.05613391473889351 1.0</string>
+	<key>DVTSourceTextCurrentLineHighlightColor</key>
+	<string>0.0 1.0 0.0 0.06666666666666667</string>
+	<key>DVTSourceTextInsertionPointColor</key>
+	<string>0.0 1.0 0.0 1.0</string>
+	<key>DVTSourceTextInvisiblesColor</key>
+	<string>0.0 1.0 0.0 0.2</string>
+	<key>DVTSourceTextSelectionColor</key>
+	<string>0.0 1.0 0.0 0.2</string>
+	<key>DVTSourceTextSyntaxColors</key>
+	<dict>
+		<key>xcode.syntax.attribute</key>
+		<string>0.0 1.0 0.0 1.0</string>
+		<key>xcode.syntax.comment</key>
+		<string>0.0 1.0 0.0 0.5333333333333333</string>
+		<key>xcode.syntax.comment.doc</key>
+		<string>0.0 1.0 0.0 0.5333333333333333</string>
+		<key>xcode.syntax.comment.doc.keyword</key>
+		<string>0.0 1.0 0.0 0.5333333333333333</string>
+		<key>xcode.syntax.keyword</key>
+		<string>0.0 1.0 0.0 0.5333333333333333</string>
+		<key>xcode.syntax.mark</key>
+		<string>0.0 1.0 0.0 0.5333333333333333</string>
+		<key>xcode.syntax.plain</key>
+		<string>0.0 1.0 0.0 1.0</string>
+		<key>xcode.syntax.url</key>
+		<string>0.0 1.0 0.0 0.5333333333333333</string>
+	</dict>
+</dict>
+</plist>

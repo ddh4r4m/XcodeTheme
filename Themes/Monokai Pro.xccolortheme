@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>DVTSourceTextBackground</key>
+	<string>0.13396432995796204 0.12234759330749512 0.13626141846179962 1.0</string>
+	<key>DVTSourceTextCurrentLineHighlightColor</key>
+	<string>0.9851826429367065 0.9855281114578247 0.9743582606315613 0.047058823529411764</string>
+	<key>DVTSourceTextInsertionPointColor</key>
+	<string>0.9851826429367065 0.9855281114578247 0.9743582606315613 1.0</string>
+	<key>DVTSourceTextInvisiblesColor</key>
+	<string>0.2866726815700531 0.2771866023540497 0.2898350954055786 1.0</string>
+	<key>DVTSourceTextSelectionColor</key>
+	<string>0.7060648202896118 0.7003427147865295 0.700573205947876 0.14901960784313725</string>
+	<key>DVTSourceTextSyntaxColors</key>
+	<dict>
+		<key>xcode.syntax.attribute</key>
+		<string>0.9851826429367065 0.9855281114578247 0.9743582606315613 1.0</string>
+		<key>xcode.syntax.character</key>
+		<string>0.6171359419822693 0.5232868790626526 0.9655444025993347 1.0</string>
+		<key>xcode.syntax.comment</key>
+		<string>0.37299513816833496 0.36299487948417664 0.3721275329589844 1.0</string>
+		<key>xcode.syntax.comment.doc</key>
+		<string>0.37299513816833496 0.36299487948417664 0.3721275329589844 1.0</string>
+		<key>xcode.syntax.comment.doc.keyword</key>
+		<string>0.37299513816833496 0.36299487948417664 0.3721275329589844 1.0</string>
+		<key>xcode.syntax.declaration.other</key>
+		<string>0.5459786057472229 0.8570355176925659 0.3303035497665405 1.0</string>
+		<key>xcode.syntax.declaration.type</key>
+		<string>0.25534623861312866 0.8512038588523865 0.8985572457313538 1.0</string>
+		<key>xcode.syntax.identifier.class</key>
+		<string>0.6171359419822693 0.5232868790626526 0.9655444025993347 1.0</string>
+		<key>xcode.syntax.identifier.class.system</key>
+		<string>0.25534623861312866 0.8512038588523865 0.8985572457313538 1.0</string>
+		<key>xcode.syntax.identifier.constant</key>
+		<string>0.6171359419822693 0.5232868790626526 0.9655444025993347 1.0</string>
+		<key>xcode.syntax.identifier.constant.system</key>
+		<string>0.25534623861312866 0.8512038588523865 0.8985572457313538 1.0</string>
+		<key>xcode.syntax.identifier.function</key>
+		<string>0.5459786057472229 0.8570355176925659 0.3303035497665405 1.0</string>
+		<key>xcode.syntax.identifier.function.system</key>
+		<string>0.5459786057472229 0.8570355176925659 0.3303035497665405 1.0</string>
+		<key>xcode.syntax.identifier.macro</key>
+		<string>0.25534623861312866 0.8512038588523865 0.8985572457313538 1.0</string>
+		<key>xcode.syntax.identifier.macro.system</key>
+		<string>0.25534623861312866 0.8512038588523865 0.8985572457313538 1.0</string>
+		<key>xcode.syntax.identifier.type</key>
+		<string>0.6171359419822693 0.5232868790626526 0.9655444025993347 1.0</string>
+		<key>xcode.syntax.identifier.type.system</key>
+		<string>0.25534623861312866 0.8512038588523865 0.8985572457313538 1.0</string>
+		<key>xcode.syntax.identifier.variable</key>
+		<string>0.9851826429367065 0.9855281114578247 0.9743582606315613 1.0</string>
+		<key>xcode.syntax.identifier.variable.system</key>
+		<string>0.25534623861312866 0.8512038588523865 0.8985572457313538 1.0</string>
+		<key>xcode.syntax.keyword</key>
+		<string>1.0 0.19905683398246765 0.45540809631347656 1.0</string>
+		<key>xcode.syntax.mark</key>
+		<string>0.37299513816833496 0.36299487948417664 0.3721275329589844 1.0</string>
+		<key>xcode.syntax.number</key>
+		<string>0.6171359419822693 0.5232868790626526 0.9655444025993347 1.0</string>
+		<key>xcode.syntax.plain</key>
+		<string>0.9851826429367065 0.9855281114578247 0.9743582606315613 1.0</string>
+		<key>xcode.syntax.preprocessor</key>
+		<string>0.25534623861312866 0.8512038588523865 0.8985572457313538 1.0</string>
+		<key>xcode.syntax.string</key>
+		<string>1.0 0.8111652731895447 0.23703500628471375 1.0</string>
+		<key>xcode.syntax.url</key>
+		<string>0.37299513816833496 0.36299487948417664 0.3721275329589844 1.0</string>
+	</dict>
+</dict>
+</plist>

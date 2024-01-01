@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>DVTSourceTextBackground</key>
+	<string>0.11327256262302399 0.10026917606592178 0.1609659492969513 1.0</string>
+	<key>DVTSourceTextCurrentLineHighlightColor</key>
+	<string>0.11327256262302399 0.10026917606592178 0.1609659492969513 1.0</string>
+	<key>DVTSourceTextInsertionPointColor</key>
+	<string>1.0 0.36098673939704895 0.3504541516304016 1.0</string>
+	<key>DVTSourceTextSelectionColor</key>
+	<string>1.0 1.0 1.0 0.12549019607843137</string>
+	<key>DVTSourceTextSyntaxColors</key>
+	<dict>
+		<key>xcode.syntax.attribute</key>
+		<string>1.0 1.0 1.0 1.0</string>
+		<key>xcode.syntax.character</key>
+		<string>1.0 0.36098673939704895 0.3504541516304016 1.0</string>
+		<key>xcode.syntax.comment</key>
+		<string>0.4364468455314636 0.46359366178512573 0.7050606608390808 1.0</string>
+		<key>xcode.syntax.comment.doc</key>
+		<string>0.4364468455314636 0.46359366178512573 0.7050606608390808 1.0</string>
+		<key>xcode.syntax.comment.doc.keyword</key>
+		<string>0.4364468455314636 0.46359366178512573 0.7050606608390808 1.0</string>
+		<key>xcode.syntax.declaration.other</key>
+		<string>0.0 1.0 0.9634286165237427 1.0</string>
+		<key>xcode.syntax.declaration.type</key>
+		<string>1.0 0.0 0.2208033800125122 1.0</string>
+		<key>xcode.syntax.identifier.class</key>
+		<string>0.0 0.8853673934936523 0.9929556846618652 1.0</string>
+		<key>xcode.syntax.identifier.constant</key>
+		<string>0.0 0.8853673934936523 0.9929556846618652 1.0</string>
+		<key>xcode.syntax.identifier.constant.system</key>
+		<string>1.0 0.36098673939704895 0.3504541516304016 1.0</string>
+		<key>xcode.syntax.identifier.function</key>
+		<string>0.0 1.0 0.9634286165237427 1.0</string>
+		<key>xcode.syntax.identifier.function.system</key>
+		<string>0.0 1.0 0.9634286165237427 1.0</string>
+		<key>xcode.syntax.identifier.macro</key>
+		<string>1.0 0.0 0.2208033800125122 1.0</string>
+		<key>xcode.syntax.identifier.macro.system</key>
+		<string>1.0 0.0 0.2208033800125122 1.0</string>
+		<key>xcode.syntax.identifier.type</key>
+		<string>0.0 0.8853673934936523 0.9929556846618652 1.0</string>
+		<key>xcode.syntax.identifier.type.system</key>
+		<string>1.0 0.3299347162246704 0.8470984697341919 1.0</string>
+		<key>xcode.syntax.identifier.variable</key>
+		<string>1.0 0.3299347162246704 0.8470984697341919 1.0</string>
+		<key>xcode.syntax.identifier.variable.system</key>
+		<string>1.0 0.3299347162246704 0.8470984697341919 1.0</string>
+		<key>xcode.syntax.keyword</key>
+		<string>1.0 0.843423068523407 0.18094827234745026 1.0</string>
+		<key>xcode.syntax.mark</key>
+		<string>0.4364468455314636 0.46359366178512573 0.7050606608390808 1.0</string>
+		<key>xcode.syntax.number</key>
+		<string>1.0 0.36098673939704895 0.3504541516304016 1.0</string>
+		<key>xcode.syntax.plain</key>
+		<string>1.0 1.0 1.0 1.0</string>
+		<key>xcode.syntax.preprocessor</key>
+		<string>1.0 0.0 0.2208033800125122 1.0</string>
+		<key>xcode.syntax.string</key>
+		<string>1.0 0.426543653011322 0.06508270651102066 1.0</string>
+		<key>xcode.syntax.url</key>
+		<string>0.4364468455314636 0.46359366178512573 0.7050606608390808 1.0</string>
+	</dict>
+</dict>
+</plist>
