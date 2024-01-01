@@ -1,0 +1,28 @@
+{
+    "configurations": [
+        {
+            "type": "lldb",
+            "request": "launch",
+            "sourceLanguages": [
+                "swift"
+            ],
+            "args": [],
+            "cwd": "${workspaceFolder:XcodeTheme}",
+            "name": "Debug XcodeTheme",
+            "program": "${workspaceFolder:XcodeTheme}/.build/debug/XcodeTheme",
+            "preLaunchTask": "swift: Build Debug XcodeTheme"
+        },
+        {
+            "type": "lldb",
+            "request": "launch",
+            "sourceLanguages": [
+                "swift"
+            ],
+            "args": [],
+            "cwd": "${workspaceFolder:XcodeTheme}",
+            "name": "Release XcodeTheme",
+            "program": "${workspaceFolder:XcodeTheme}/.build/release/XcodeTheme",
+            "preLaunchTask": "swift: Build Release XcodeTheme"
+        }
+    ]
+}
