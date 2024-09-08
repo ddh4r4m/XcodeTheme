@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>DVTSourceTextBackground</key>
+	<string>0.8992164134979248 0.9163294434547424 0.9541712999343872 1.0</string>
+	<key>DVTSourceTextCurrentLineHighlightColor</key>
+	<string>0.8608139753341675 0.8777425289154053 0.9151843786239624 1.0</string>
+	<key>DVTSourceTextInsertionPointColor</key>
+	<string>1.0 0.3868899941444397 0.2277502864599228 1.0</string>
+	<key>DVTSourceTextInvisiblesColor</key>
+	<string>0.6423238515853882 0.6421671509742737 0.6471943855285645 1.0</string>
+	<key>DVTSourceTextSelectionColor</key>
+	<string>0.0 0.287923663854599 1.0 0.24705882352941178</string>
+	<key>DVTSourceTextSyntaxColors</key>
+	<dict>
+		<key>xcode.syntax.attribute</key>
+		<string>0.2925705015659332 0.2923106253147125 0.3005859851837158 1.0</string>
+		<key>xcode.syntax.declaration.type</key>
+		<string>0.8239723443984985 0.2498718798160553 0.32859736680984497 1.0</string>
+		<key>xcode.syntax.identifier.constant.system</key>
+		<string>0.7713488936424255 0.35410618782043457 0.8525230884552002 1.0</string>
+		<key>xcode.syntax.identifier.macro</key>
+		<string>0.8239723443984985 0.2498718798160553 0.32859736680984497 1.0</string>
+		<key>xcode.syntax.identifier.macro.system</key>
+		<string>0.8239723443984985 0.2498718798160553 0.32859736680984497 1.0</string>
+		<key>xcode.syntax.identifier.type.system</key>
+		<string>0.45901620388031006 0.45901620388031006 0.45901620388031006 1.0</string>
+		<key>xcode.syntax.identifier.variable.system</key>
+		<string>0.9869339466094971 0.42510974407196045 0.8304013013839722 1.0</string>
+		<key>xcode.syntax.keyword</key>
+		<string>0.8072852492332458 0.0 0.7563905715942383 1.0</string>
+		<key>xcode.syntax.number</key>
+		<string>1.0 0.27927660942077637 0.0 1.0</string>
+		<key>xcode.syntax.plain</key>
+		<string>0.2925705015659332 0.2923106253147125 0.3005859851837158 1.0</string>
+		<key>xcode.syntax.preprocessor</key>
+		<string>0.8239723443984985 0.2498718798160553 0.32859736680984497 1.0</string>
+		<key>xcode.syntax.string</key>
+		<string>0.13671404123306274 0.38519367575645447 0.9495677947998047 1.0</string>
+	</dict>
+</dict>
+</plist>
